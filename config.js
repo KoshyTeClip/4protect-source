@@ -1,4 +1,4 @@
-uumodule.exports = {
+module.exports = {
     app: {
         px: '+', // Le prefix exemple +help *help ta capter le prefix avant la commande...
         owners: '951541504235671552', // Ici tu te met owner (Que toi pas tes meilleurs collègue...)
